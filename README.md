@@ -1,10 +1,10 @@
 
 
-## 1. Configuración general en VMware
+## 1. Configuración general en VMwar1
 
 Se creó una máquina virtual en VMware con los recursos necesarios para soportar la instalación de Red Hat Enterprise Linux.
 
-![Configuración general del sistema en VMware](images/image7.png)
+![Configuración general del sistema en VMware](pruebaq/image7.png)
 
 ---
 
