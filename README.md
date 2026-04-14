@@ -54,17 +54,19 @@ Después de reiniciar o refrescar el sistema, se verificó que el nuevo disco fu
 lsblk
 ```
 
+ 
 
-
-![Uploading image.png…]()
+<img width="681" height="223" alt="image" src="https://github.com/user-attachments/assets/e28d7c6a-33de-490f-91a8-522d499f4eac" />
 
 
 ## 6. Creación de partición con `fdisk` o `parted`
 
 Se creó una nueva partición en el disco adicional utilizando `fdisk` o `parted`.
 
-![Creación de partición en el nuevo disco](images/image6.png)
+![Creación de partición en el nuevo disco]
+![Uploading image.png…]()
 
-![Resultado final de la partición](images/image10.png)
+
+##Resultado final de la partición
 
 
