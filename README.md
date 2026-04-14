@@ -56,6 +56,6 @@ Se creó una nueva partición en el disco adicional utilizando `fdisk` o `parted
 
 
 ## Resultado final de la partición
-![Uploading image.png…]()
+<img width="643" height="347" alt="image" src="https://github.com/user-attachments/assets/7fa3e312-391d-4487-be62-147336bfaf52" />
 
 
