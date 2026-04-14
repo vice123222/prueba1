@@ -14,6 +14,8 @@ Se creó una máquina virtual en VMware con los recursos necesarios para soporta
 Durante el asistente de instalación de RHEL se configuró el esquema de particionado del disco principal.
 
 <img width="1893" height="905" alt="image" src="https://github.com/user-attachments/assets/d4abc74a-0bd6-4f06-86cd-75603d9361c2" />
+<img width="1901" height="967" alt="image" src="https://github.com/user-attachments/assets/130569df-ec04-4b6e-82bb-c35a5892d2aa" />
+
 
 
 ### Esquema sugerido de particiones
