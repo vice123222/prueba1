@@ -42,7 +42,7 @@ Se ejecutó el proceso de instalación completo de RHEL, incluyendo la selecció
 
 Una vez instalado el sistema, se añadió un segundo disco duro de **30 GB** desde la configuración de la máquina virtual en VMware.
 
-![Uploading image.png…]()
+<img width="653" height="316" alt="image" src="https://github.com/user-attachments/assets/14c89385-968f-4ef3-b5c0-295524f32034" />
 
 ---
 
@@ -54,19 +54,10 @@ Después de reiniciar o refrescar el sistema, se verificó que el nuevo disco fu
 lsblk
 ```
 
-Salida esperada (ejemplo):
 
-```
-NAME   MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
-sda      8:0    0   20G  0 disk
-├─sda1   8:1    0    1G  0 part /boot
-└─sda2   8:2    0   19G  0 part /
-sdb      8:16   0   30G  0 disk          ← nuevo disco
-```
 
-![Verificación del nuevo disco detectado en el sistema con lsblk](images/image9.png)
+![Uploading image.png…]()
 
----
 
 ## 6. Creación de partición con `fdisk` o `parted`
 
