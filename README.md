@@ -42,8 +42,7 @@ Se ejecutó el proceso de instalación completo de RHEL, incluyendo la selecció
 
 Una vez instalado el sistema, se añadió un segundo disco duro de **30 GB** desde la configuración de la máquina virtual en VMware.
 
-[![Se agrega un disco duro de 30G](images/image4.png)](https://github.com/vice123222/prueba1/blob/main/foto5.png?raw=true)
-
+foto5.png
 ---
 
 ## 5. Verificación del nuevo disco con `lsblk`
