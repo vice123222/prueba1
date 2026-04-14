@@ -1,19 +1,4 @@
-# 🎩 Evaluación Red Hat Enterprise Linux — Instalación y Configuración en VMware
 
-Documentación del proceso de instalación y configuración de Red Hat Enterprise Linux en un entorno virtualizado con VMware.
-
----
-
-## 📋 Contenido
-
-1. [Configuración general en VMware](#1-configuración-general-en-vmware)
-2. [Particionado del disco durante la instalación](#2-particionado-del-disco-durante-la-instalación)
-3. [Proceso de instalación del sistema operativo](#3-proceso-de-instalación-del-sistema-operativo)
-4. [Agregar un disco duro adicional de 30 GB](#4-agregar-un-disco-duro-adicional-de-30-gb)
-5. [Verificación del nuevo disco con lsblk](#5-verificación-del-nuevo-disco-con-lsblk)
-6. [Creación de partición con fdisk o parted](#6-creación-de-partición-con-fdisk-o-parted)
-
----
 
 ## 1. Configuración general en VMware
 
