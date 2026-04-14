@@ -33,9 +33,8 @@ Durante el asistente de instalación de RHEL se configuró el esquema de partici
 
 Se ejecutó el proceso de instalación completo de RHEL, incluyendo la selección de paquetes y la configuración inicial del sistema.
 
-![Proceso de instalación del sistema operativo en curso](images/image8.png)
+<img width="656" height="358" alt="image" src="https://github.com/user-attachments/assets/9ee6e5a8-d627-4f27-a026-e996d19538b5" />
 
-![Instalación completada](images/image5.png)
 
 ---
 
