@@ -17,18 +17,6 @@ Durante el asistente de instalación de RHEL se configuró el esquema de partici
 <img width="1901" height="967" alt="image" src="https://github.com/user-attachments/assets/130569df-ec04-4b6e-82bb-c35a5892d2aa" />
 
 
-
-### Esquema sugerido de particiones
-
-| Punto de montaje | Tamaño recomendado | Sistema de archivos |
-|-----------------|-------------------|---------------------|
-| `/boot`         | 1 GB              | `xfs`               |
-| `/`             | 20 GB+            | `xfs`               |
-| `/home`         | Variable          | `xfs`               |
-| `swap`          | 2–4 GB            | `swap`              |
-
----
-
 ## 3. Proceso de instalación del sistema operativo
 
 Se ejecutó el proceso de instalación completo de RHEL, incluyendo la selección de paquetes y la configuración inicial del sistema.
