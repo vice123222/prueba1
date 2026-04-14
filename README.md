@@ -1,10 +1,11 @@
-
+<img width="1893" height="905" alt="image" src="https://github.com/user-attachments/assets/02432a8a-d7ea-4b15-929c-731cfc0c6ae7" />
 
 ## 1. Configuración general en VMwar1
 
 Se creó una máquina virtual en VMware con los recursos necesarios para soportar la instalación de Red Hat Enterprise Linux.
 
-![Configuración general del sistema en VMware](prueba1/image7.png)
+<img width="1893" height="905" alt="image" src="https://github.com/user-attachments/assets/197cbd49-210a-4712-a514-70fc4ede0a78" />
+
 
 ---
 
