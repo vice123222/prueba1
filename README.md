@@ -62,11 +62,12 @@ lsblk
 ## 6. Creación de partición con `fdisk` o `parted`
 
 Se creó una nueva partición en el disco adicional utilizando `fdisk` o `parted`.
+<img width="675" height="273" alt="image" src="https://github.com/user-attachments/assets/e33e9e87-45b8-4273-80d7-177d369fa1c8" />
 
-![Creación de partición en el nuevo disco]
+<img width="643" height="347" alt="image" src="https://github.com/user-attachments/assets/4e969bda-8e77-4c0d-a22c-78ab23e50190" />
+
+
+## Resultado final de la partición
 ![Uploading image.png…]()
-
-
-##Resultado final de la partición
 
 
